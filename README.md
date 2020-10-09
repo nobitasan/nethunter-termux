@@ -4,10 +4,10 @@
 Access internal memory in nethunter
 
 # Installation in termux
-```pkg install wget```\n
-```wget https://raw.githubusercontent.com/nobitasan/nethunter-termux/main/install-nethunter-termux```\n
-```chmod +x install-nethunter-termux```\n
-```./install-nethunter-termux```\n
+```pkg install wget```
+```wget https://raw.githubusercontent.com/nobitasan/nethunter-termux/main/install-nethunter-termux```
+```chmod +x install-nethunter-termux```
+```./install-nethunter-termux```
 
 # How to access internal memory ?
 type ```/sdcard``` to access the internal memory of your device.
