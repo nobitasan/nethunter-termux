@@ -10,7 +10,7 @@ Access internal memory in nethunter
 ```./install-nethunter-termux```
 
 # How to access internal memory ?
-type ```/sdcard``` to access the internal memory of your device.
+type ```cd /sdcard``` to access the internal memory of your device.
 
 # Note
 if you have previously installed, type ```n``` in each question. it doesn't change the settings you did before.
